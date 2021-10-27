@@ -4,6 +4,7 @@ MATERIALES:
 •	SENSOR DE SONIDO: Este nos ayuda a captar los sonidos (es una de las cosas primordiales)
 
 
+![image](https://user-images.githubusercontent.com/87454368/139084797-65bbf293-e133-4b4e-b591-22f30311beb4.png)
 
 
 •	PROTOBOARD: Es la placa de prueba en la que se puede insertar las cosas que vamos a usar. Como los cables, sensor, la placa ESP32 y el cable USB 
