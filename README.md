@@ -48,3 +48,11 @@ Entre la línea 18 a la 36 entra el uso del IFTTT, acá nos conectamos con la re
 Y por último de la línea 38 a la 39 se finaliza el código con while (True):
 Time.sleep (4)
 
+Todos los datos que recoge el sensor de sonido los manda a un documento de google:
+
+https://docs.google.com/spreadsheets/d/16eNvnES_tlFHILr7rJKXpPToPUefUKNN3EZK-vL17RE/edit?usp=sharing
+
+
+Video explicativo de el trabajo:
+
+https://www.youtube.com/watch?v=6ogF4OkqSd4&t=13s
